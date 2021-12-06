@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  },
+  "name": "readme",
+  "version": "1.0.0",
+  "description": "readme",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "K2S00"
+  },
+  "author": "r. dearry",
+  "license": "ISC"
+}
